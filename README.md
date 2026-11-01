@@ -36,7 +36,6 @@ Desenvolvedor de software com **mais de 20 anos** construindo sistemas que rodam
 
 ### 🏢 Condomínios
 - **SIGC** — gestão interna de condomínio: cadastros, portaria, manutenção, almoxarifado/patrimônio e financeiro/compliance.
-- **LifeCondo** — ETL de API de terceiros para SQL Server relacional (3FN, ~325 mil registros) com aplicação web sobre os dados, atenção à LGPD.
 
 ### 🧩 Gestão setorial
 - **JOÃO** — ERP + CRM pastoral para igrejas, com design system acessível e plano de homologação por módulo.
